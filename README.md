@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 -->
 ### Hi! 👋 I'm Gabril.
 
-- 🔭 I’m currently working on <a href="https://idcamp.indosatooredoo.com/news/371/selamat-kepada-fasilitator-terpilih-idcamp-2021">Facilitator Machine Learning Expert IDCamp 2021</a>
+- 🔭 I’m currently working on <a href="https://www.dicoding.com/academysubmissions/reviewed/238671">External Code Reviewer at Dicoding Indonesia</a>
+- ✔ I'm <a href="https://idcamp.indosatooredoo.com/news/371/selamat-kepada-fasilitator-terpilih-idcamp-2021">Ex-Facilitator Machine Learning Expert IDCamp 2021</a>
 - 🌱 I’m currently learning about data for data scientist, data analytics and data engineer
 - 💬 Feel free to ask me about data and cybersecurity
 
